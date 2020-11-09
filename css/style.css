@@ -147,3 +147,35 @@ img:nth-of-type(20) {
     top: 129px;
     right: 0px;
 }
+
+
+/* Row 3 */
+
+img:nth-of-type(21) {
+    position: absolute;
+    top: 162px;
+    left: 0;
+}
+
+img:nth-of-type(22) {
+    position: absolute;
+    top: 163px;
+    left: 51px;
+}
+
+img:nth-of-type(23) {
+    position: absolute;
+    top: 163px;
+    left: 133px;
+}
+
+img:nth-of-type(24) {
+    position: absolute;
+    top: 163px;
+    left: 190px;
+}
+
+img:nth-of-type(25) {
+    position: absolute;
+    bottom: ;
+}
